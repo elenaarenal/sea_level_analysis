@@ -38,7 +38,8 @@ To run the app locally:
 
 1. **Clone the repository**
 2. **Run the app**: streamlit run main.py
-Alternatively, you can access the app directly via Streamlit Share or another hosting platform.
+
+-Alternatively, you can access the app directly via Streamlit site.
 
 ## Pain Points
 
